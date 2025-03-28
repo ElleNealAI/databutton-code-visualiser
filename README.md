@@ -26,7 +26,7 @@ You can manually add these files to your own Databutton project.
 **Step 1: Add code to your Databutton Project**
 1. Create a new page called `CodebaseVisualization`, click on the ellipses on the new page and click **'Set read-only for agent'**.
 2. Click **'Edit Code'** Copy the code from this file [CodebaseVisualization.tsx](https://github.com/ElleNealAI/databutton-code-visualiser/blob/main/ui/pages/CodebaseVisualization.tsx) and replace the existing code.
-3. 1. Create a new page called `CodebaseVisualizer`, click on the ellipses on the new page and click **'Set read-only for agent'**.
+3. Create a new Component called `CodebaseVisualizer`, click on the ellipses on the new page and click **'Set read-only for agent'**.
 4. Click **'Edit Code'** Copy the code from this file [CodebaseVisualizer.tsx](https://github.com/ElleNealAI/databutton-code-visualiser/blob/main/ui/components/CodebaseVisualizer.tsx) and replace the existing code.
 5. Create a new API called `codebase`, click on the ellipses on the new API and click **'Set read-only for agent'**.
 6. Copy the code from this file [codebase.py](https://github.com/ElleNealAI/databutton-code-visualiser/blob/main/backend/codebase.py) and replace the existing code.
